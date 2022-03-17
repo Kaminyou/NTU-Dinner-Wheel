@@ -1,0 +1,11 @@
+{
+    "SPREADSHEET_ID": "1JBg4qa6kiJcExqgJ5cDT8uylpQMO35BysL6n5233HLg",
+    "SHEET_NAME": "restaurant",
+    "UP_DURATION": 100,
+    "DOWN_DURATION": 500,
+    "COLOR_PALETTE": [
+        "#ff9900", "#b36b00", "#ffe6bf", "#ffcc80", "#00b366", 
+        "#007d48", "#bfffe4", "#80ffc9", "#400099", "#2d006b", 
+        "#dabfff", "#b580ff"
+    ]
+}
