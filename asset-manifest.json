@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/NTU-Dinner-Wheel/static/css/main.da944c4b.chunk.css",
-    "main.js": "/NTU-Dinner-Wheel/static/js/main.cab5bc8d.chunk.js",
-    "main.js.map": "/NTU-Dinner-Wheel/static/js/main.cab5bc8d.chunk.js.map",
+    "main.js": "/NTU-Dinner-Wheel/static/js/main.2599f9c8.chunk.js",
+    "main.js.map": "/NTU-Dinner-Wheel/static/js/main.2599f9c8.chunk.js.map",
     "runtime-main.js": "/NTU-Dinner-Wheel/static/js/runtime-main.c2cfb0a5.js",
     "runtime-main.js.map": "/NTU-Dinner-Wheel/static/js/runtime-main.c2cfb0a5.js.map",
-    "static/js/2.bd74192e.chunk.js": "/NTU-Dinner-Wheel/static/js/2.bd74192e.chunk.js",
-    "static/js/2.bd74192e.chunk.js.map": "/NTU-Dinner-Wheel/static/js/2.bd74192e.chunk.js.map",
+    "static/js/2.5c0a7793.chunk.js": "/NTU-Dinner-Wheel/static/js/2.5c0a7793.chunk.js",
+    "static/js/2.5c0a7793.chunk.js.map": "/NTU-Dinner-Wheel/static/js/2.5c0a7793.chunk.js.map",
     "static/js/3.42000fed.chunk.js": "/NTU-Dinner-Wheel/static/js/3.42000fed.chunk.js",
     "static/js/3.42000fed.chunk.js.map": "/NTU-Dinner-Wheel/static/js/3.42000fed.chunk.js.map",
     "index.html": "/NTU-Dinner-Wheel/index.html",
     "static/css/main.da944c4b.chunk.css.map": "/NTU-Dinner-Wheel/static/css/main.da944c4b.chunk.css.map",
-    "static/js/2.bd74192e.chunk.js.LICENSE.txt": "/NTU-Dinner-Wheel/static/js/2.bd74192e.chunk.js.LICENSE.txt"
+    "static/js/2.5c0a7793.chunk.js.LICENSE.txt": "/NTU-Dinner-Wheel/static/js/2.5c0a7793.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2cfb0a5.js",
-    "static/js/2.bd74192e.chunk.js",
+    "static/js/2.5c0a7793.chunk.js",
     "static/css/main.da944c4b.chunk.css",
-    "static/js/main.cab5bc8d.chunk.js"
+    "static/js/main.2599f9c8.chunk.js"
   ]
 }
