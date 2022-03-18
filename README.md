@@ -7,7 +7,7 @@ A random restaurant picker for National Taiwan University built with ReactJS
 https://kaminyou.com/NTU-Dinner-Wheel/
 
 ### Restaurant list
-Please revise the restaurants in the [google list](https://docs.google.com/spreadsheets/d/1JBg4qa6kiJcExqgJ5cDT8uylpQMO35BysL6n5233HLg/edit#gid=0), which is the subset of [吃台大2.0](https://docs.google.com/spreadsheets/d/1PWScTkQX4TG-9WE-mMsOnq3o5XRgX8x6z1BuVfM-a6Q/edit).
+Please revise the restaurants in this [google sheet](https://docs.google.com/spreadsheets/d/1JBg4qa6kiJcExqgJ5cDT8uylpQMO35BysL6n5233HLg/edit#gid=0), which is the subset of [吃台大2.0](https://docs.google.com/spreadsheets/d/1PWScTkQX4TG-9WE-mMsOnq3o5XRgX8x6z1BuVfM-a6Q/edit).
 
 ## Customize
 A config file `src/config.json` is provided for you to customize your own wheel easily. Besides, deployment on [GitHub pages](https://pages.github.com/) can be achieved by simply executing `yarn deploy`.
