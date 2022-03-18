@@ -1,5 +1,6 @@
 # NTU Wheel of dinner
 A random restaurant picker for National Taiwan University built with ReactJS
+![](images/thumbnail.png)
 
 ## General usage
 ### Deployment
