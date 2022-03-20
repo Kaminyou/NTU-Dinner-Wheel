@@ -31,6 +31,14 @@ function Wheel() {
         )
     }
 
+    // Fisher-Yates shuffle
+    const shuffle = (array) => {
+        for (let i = array.length - 1; i > 0; i--) {
+            let j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+          }
+    } 
+    
     const getCandidate = () => {
         let candidateTemp = [];
         if (restaurantData.length > 0) {
@@ -41,6 +49,7 @@ function Wheel() {
                 if (element[listName] !== '') candidateTemp.push(element[listName]);
             }
         });
+        shuffle(candidateTemp);
         setCandidateList(candidateTemp);
         let repeats = Math.ceil(candidateTemp.length / defaultColorPalette.length);
         setcolorPalette(repeatArray(defaultColorPalette, repeats));
