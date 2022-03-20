@@ -22,7 +22,9 @@ function Wheel() {
         axios.get(`https://opensheet.vercel.app/${configData.SPREADSHEET_ID}/${configData.SHEET_NAME}`)
         .then((res) => { 
             setRestaurantData(res.data);
-            setListName(Object.keys(res.data[0])[0]);
+            let tempList = Object.keys(res.data[0])
+            let random = Math.floor(Math.random() * tempList.length);
+            setListName(tempList[random]);
         })
         .catch((error) => { 
             setLoadFlag(false);
